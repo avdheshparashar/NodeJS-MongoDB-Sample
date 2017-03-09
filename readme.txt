@@ -1,0 +1,1 @@
+This sample code contains some piece of code which I implemented using Express Framework and Mongodb native drive for node.js.
